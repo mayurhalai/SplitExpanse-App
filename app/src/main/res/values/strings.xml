@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SplitBill</string>
+
+    <string name="title_section1">Add Bills</string>
+    <string name="title_section2">Your Bills</string>
+    <string name="title_section3">All Balance</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">About</string>
+    <string name="title_activity_login">Login Info</string>
+    <string name="title_activity_edit">Edit Bill</string>
+    <string name="title_activity_balance">Balance</string>
+    <string name="title_activity_about">About</string>
+</resources>

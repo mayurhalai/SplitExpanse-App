@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1, 2">
+
+    <TableRow>
+        <Button
+            android:layout_column="1"
+            android:text="Bill Split"
+            android:padding="3dp"
+            android:id="@+id/buttonBillSplit"
+            android:background="@drawable/button_info"/>
+        <Button
+            android:text="Edit"
+            android:padding="3dp"
+            android:id="@+id/buttonEdit"
+            android:background="@drawable/button_success"/>
+    </TableRow>
+    <TableRow>
+        <Button
+            android:layout_column="1"
+            android:text="Bill Image"
+            android:padding="3dp"
+            android:id="@+id/buttonBillImage"
+            android:background="@drawable/button_info"/>
+        <Button
+            android:text="Delete"
+            android:padding="3dp"
+            android:id="@+id/buttonDelete"
+            android:background="@drawable/button_warning"/>
+    </TableRow>
+</TableLayout>

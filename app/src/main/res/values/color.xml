@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sky">#75D1FF</color>
+    <color name="warning">#E03733</color>
+    <color name="warning2">#B80000</color>
+    <color name="success">#50C64D</color>
+    <color name="success2">#399230</color>
+    <color name="info">#47CBCB</color>
+    <color name="info2">#0BD2C9</color>
+    <color name="grey">#B9B5B8</color>
+</resources>
